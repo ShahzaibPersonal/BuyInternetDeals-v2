@@ -12,6 +12,6 @@
 ## Website Developed 
 The website in its desktop view looks like this. You can check website hosted on this link for yourself
 
-https://shahzaibpersonal.github.io/BuyInternetDealsWebite/
+Live Preview https://shahzaibpersonal.github.io/BuyInternetDeals-v2/
 
 ![alt text](/2.png)
